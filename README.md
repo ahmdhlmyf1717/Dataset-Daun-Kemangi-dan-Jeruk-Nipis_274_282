@@ -1,6 +1,3 @@
-# Dataset-Daun-Kemangi-dan-Jeruk-Nipis_274_282
-Tugas  Kecerdasan Buatan 5D
-
 # Kemangi
 Kemangi adalah terna kecil yang daunnya biasa dimakan sebagai lalap. Aroma daunnya khas, kuat namun lembut dengan sentuhan aroma limau. Daun kemangi merupakan salah satu bumbu bagi pepes. Sebagai lalapan, daun kemangi biasanya dimakan bersama-sama daun kubis, irisan ketimun, dan sambal untuk menemani ayam atau ikan goreng. Di Thailand ia dikenal sebagai manglak dan juga sering dijumpai dalam menu masakan setempat.
 Kemangi adalah hibrida antar spesies antara dua spesies selasih, Ocimum basilicum dan O. americanum. Ia dikenal juga sebagai O. basilicum var. anisatum Benth. Aroma khasnya berasal dari kandungan sitral yang tinggi pada daun dan bunganya.
